@@ -20,7 +20,7 @@ public class PlayerController : MonoBehaviour
     Vector3 _PlayerVelocity;
 
     bool isGrounded;
-
+    
     [Header("Camera")]
     public Camera cam;
     public float sensitivity;
